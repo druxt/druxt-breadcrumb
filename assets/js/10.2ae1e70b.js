@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{414:function(e,n,t){"use strict";t.r(n);var r={name:"DruxtBlockSystemBreadcrumbBlock",mixins:[t(379).a]},u=t(42),c=Object(u.a)(r,(function(){var e=this.$createElement;return(this._self._c||e)("DruxtBreadcrumb")}),[],!1,null,null,null);n.default=c.exports}}]);
